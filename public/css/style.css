@@ -273,8 +273,10 @@ body a:hover
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(/images/bgs/7.jpg);
-    background-repeat: repeat; 
+    /*
+    background-image:url(../images/bgs/7.jpg);
+    */
+    background-repeat: repeat;
     background-position: center top; 
     background-size: cover;
     z-index: 10;
@@ -333,7 +335,7 @@ h1.big-title
 #services
 {
     background-color: #221c5a;
-    background-image: url("/images/ag-bg.png");
+    background-image: url("../images/ag-bg.png");
     z-index: 9;
 }
 
@@ -611,7 +613,7 @@ div.pp_default .pp_loaderIcon
 #about
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_03.jpg"); 
+    background-image: url("../demo-images/background_img_03.jpg");
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -686,7 +688,7 @@ div.pp_default .pp_loaderIcon
 #testimonials
 {
     background-color: rgb(34, 28, 90);
-    background-image: url("demo-images/background_img_05b.jpg");
+    background-image: url("../demo-images/background_img_05b.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto;
@@ -717,7 +719,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90); 
     /*background-image: url("demo-images/background_img_04.jpg");*/
-    background-image: url("/images/ag-bg.png");
+    background-image: url("../images/ag-bg.png");
 /*    background-repeat: no-repeat;
     background-position: center center; 
     background-size: cover;*/
@@ -892,7 +894,7 @@ div.pp_default .pp_loaderIcon
 #video
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_06.jpg"); 
+    background-image: url("../demo-images/background_img_06.jpg");
     background-repeat: repeat-x; 
     background-position: center center; 
     background-size: auto; 
@@ -952,7 +954,7 @@ a.video-popup-holder:hover img.popup-play
 #skills
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/item_background_01.jpg"); 
+    background-image: url("../demo-images/item_background_01.jpg");
     background-repeat: no-repeat; 
     background-position: left top; 
     background-size: 100%; 
@@ -1030,7 +1032,7 @@ a.video-popup-holder:hover img.popup-play
 #contact
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_05b.jpg"); 
+    background-image: url("../demo-images/background_img_05b.jpg");
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto; 
@@ -1205,13 +1207,13 @@ span.contact-form-not-valid-tip
 
 .section-title-holder.left {
     border-bottom-left-radius: 150px;
-    background-image: url("/images/blick-left.png");
+    background-image: url("../images/blick-left.png");
     background-repeat: no-repeat;
     background-position: left bottom;
 }
 .section-title-holder.right {
     border-bottom-right-radius: 150px;
-    background-image: url("/images/blick-right.png");
+    background-image: url("../images/blick-right.png");
     background-repeat: no-repeat;
     background-position: right bottom;
 }
@@ -1263,7 +1265,7 @@ footer
 #portfolio-1
 {
     background-color: #221c5a;
-    background-image:url("demo-images/background_img_05b.jpg"); 
+    background-image:url("../demo-images/background_img_05b.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto; 
@@ -1273,7 +1275,7 @@ footer
 {
 
     background-color: #221c5a;
-    background-image: url(demo-images/item_background_01.jpg);
+    background-image: url(../demo-images/item_background_01.jpg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 100% auto;
