@@ -25,7 +25,7 @@ class ContactController extends Controller {
             }
         );*/
 
-        Mail::to('anna.reisch@gmx.net')
+        Mail::to('anna.reisch@gmx.ch')
             ->send(new Contact($name, $email, $message));
 
         $response = [
