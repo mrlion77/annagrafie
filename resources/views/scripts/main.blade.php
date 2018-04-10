@@ -23,17 +23,18 @@
                     data: params,
                     success: function (response) {
                         if (response) {
-                            var responseObj = jQuery.parseJSON(response);
                             jQuery("#ajaxLoader").hide();
-                            alert(responseObj.ResponseData);
-/*                            if (responseObj.ResponseData) {
-                                jQuery("#ajaxLoader").hide();
+                            var responseObj = jQuery.parseJSON(response);
+/*                            jQuery("#ajaxLoader").hide();
+                            alert(responseObj.ResponseData);*/
+                            if (responseObj.ResponseData) {
                                 alert(responseObj.ResponseData);
-                            }*/
+                            }
                         }
                     },
                     error: function (xhr, ajaxOptions, thrownError) {
                         //xhr.status : 404, 303, 501...
+                        jQuery("#ajaxLoader").hide();
                         var error = null;
                         switch (xhr.status) {
                             case "301":
@@ -55,7 +56,6 @@
                                 error = "Unexpected error, please try again later.";
                         }
                         if (error) {
-                            jQuery("#ajaxLoader").hide();
                             alert(error);
                         }
                     }
