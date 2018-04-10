@@ -24,10 +24,14 @@
                     success: function (response) {
                         if (response) {
                             var responseObj = jQuery.parseJSON(response);
+                            jQuery("#ajaxLoader").hide();
+                            alert(responseObj.ResponseData);
+/*
                             if (responseObj.ResponseData) {
                                 jQuery("#ajaxLoader").hide();
                                 alert(responseObj.ResponseData);
                             }
+*/
                         }
                     },
                     error: function (xhr, ajaxOptions, thrownError) {
