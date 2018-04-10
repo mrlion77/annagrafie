@@ -60,7 +60,7 @@
                 });
                 return false;
             } else {
-                alert({{ trans('statuses.contactError') }});
+                alert('Please enter your name, valid email and your message');
                 return false;
             }
 
