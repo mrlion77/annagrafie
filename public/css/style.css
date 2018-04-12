@@ -1152,6 +1152,8 @@ p.custom-field-class
     padding-top: 13px;
     overflow: hidden;
     padding-bottom: 5px;
+    height: 150px;
+    resize: vertical;
 }
 
 .contact-form textarea:focus
