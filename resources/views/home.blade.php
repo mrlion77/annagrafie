@@ -802,7 +802,7 @@
     <div class="footer content-1170 center-relative">
         <ul>
             <li class="copyright-footer">
-                © 2018 All rights reserved | annaggrafie.com</a>
+                © 2018 All rights reserved | annagrafie.com</a>
             </li>
         </ul>
     </div>
