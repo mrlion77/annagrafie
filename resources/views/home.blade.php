@@ -86,8 +86,8 @@
                                         {!! trans('descriptions.about.part.three') !!}<br>
                                     </div>
                                 </div>
-                                <div class="member-image-holder">
-                                    <img src="images/nyurka.jpg" alt="">
+                                <div class="member-image-holder" style="padding-top: 20px">
+                                    <img src="images/anna_reisch.jpg" alt="">
                                 </div>
                                 <div class="clear"></div>
                             </li>
