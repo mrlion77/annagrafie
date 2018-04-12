@@ -17,9 +17,9 @@ return [
     'about.languages' => 'Wir werden uns gut verstehen in:',
 
 
-    'sessions.es' => 'Sie bekommen <strong style="color: #32db89">10</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
-    'sessions.em' => 'Sie bekommen <strong style="color: #4C9EE7">20</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
-    'sessions.el' => 'Sie bekommen <strong style="color: rgb(230, 75, 119)">30</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
+    'sessions.es' => 'Sie bekommen <strong style="color: #32db89">10</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungenen Fotos unbearbeitet',
+    'sessions.em' => 'Sie bekommen <strong style="color: #4C9EE7">20</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungenen Fotos unbearbeitet',
+    'sessions.el' => 'Sie bekommen <strong style="color: rgb(230, 75, 119)">30</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungenen Fotos unbearbeitet',
 
     'contact' => "Falls Sie Fragen oder eigene Ideen haben, gerne können wir alles besprechen!",
 
