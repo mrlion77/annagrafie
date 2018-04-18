@@ -767,7 +767,9 @@
                     <br>
                     <p><strong><span style="color: #e64b77;">Email:</span></strong> <a href="mailto:anna.reisch@gmx.ch">anna.reisch@gmx.ch</a></p>
                     <br>
-                    <p><strong><span style="color: #e64b77;">Phone:</span></strong> +41762012260</p>
+                    <p><strong><span style="color: #e64b77;">{!! trans('descriptions.contact.phone') !!}:</span></strong> +41762012260</p>
+                    <br>
+                    <p><strong><span style="color: #e64b77;">{!! trans('descriptions.contact.location.title') !!}:</span></strong> {!! trans('descriptions.contact.location') !!}</p>
                 </div>
                 <div class="one_half last">
                     <div class="contact-form">
