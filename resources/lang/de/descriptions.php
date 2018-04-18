@@ -2,6 +2,9 @@
 
 return [
 
+    'description'=>"",
+    'keywords'=>"",
+
     'services.portrait' => 'Ihren wahren Charakter zum Ausdruck bringen.',
     'services.children' => 'Sie wachsen so schnell! Halten wir diese Momente für immer fest.',
     'services.birthday' => 'Jeder Geburtstag ist einmalig. Schöne Bilder lassen uns die gute Laune wieder erleben.',
@@ -22,6 +25,9 @@ return [
     'sessions.el' => 'Sie bekommen <strong style="color: rgb(230, 75, 119)">30</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungenen Fotos unbearbeitet',
 
     'contact' => "Falls Sie Fragen oder eigene Ideen haben, gerne können wir alles besprechen!",
+    'contact.phone'=>"Telefon",
+    'contact.location.title'=>"Standort",
+    'contact.location'=>"Kanton Waadt, Freiburg, Bern",
 
     'photographer' => 'FOTOGRAF'
 

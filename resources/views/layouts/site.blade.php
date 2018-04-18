@@ -1,10 +1,20 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26923468-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-26923468-1');
+    </script>
+
     <title>annagrafie de votre vie</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="annagrafie.com"/>
-    <meta name="keywords" content="photographe"/>
+    <meta name="description" content="{{ trans('descriptions.descriptions') }}"/>
+    <meta name="keywords" content="{{ trans('descriptions.keywords') }}"/>
     <meta name="author" content="mrlion"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">

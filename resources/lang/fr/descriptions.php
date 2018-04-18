@@ -2,6 +2,9 @@
 
 return [
 
+    'description'=>"",
+    'keywords'=>"",
+
     'services.portrait' => 'Exprimer exactement Votre caractère.',
     'services.children' => 'Ils poussent tellement vite ! Gardons ces moments pour toujours.',
     'services.birthday' => 'Chaque anniversaire est unique. Des belles images nous font revivre la bonne ambiance.',
@@ -25,6 +28,10 @@ return [
     'sessions.el' => 'Sie bekommen <strong style="color: rgb(230, 75, 119)">30</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
 
     'contact' => "Si vous avez des questions ou vos propres idées, nous pouvons volontiers en parler!",
+    'contact.phone'=>"Téléphone",
+    'contact.location.title'=>"Location",
+    'contact.location'=>"Canton Vaud, Fribourg, Berne",
+
 
     'photographer' => 'PHOTOGRAPHE'
 
