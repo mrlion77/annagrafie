@@ -3,7 +3,11 @@
 return [
 
     'description'=>"",
-    'keywords'=>"",
+    'keywords'=>"Foto, Fotograf, Fotografin, fotografieren, Fotoshooting, Shooting, Porträt, Porträte, Porträtfotograf, Porträtfotografie, 
+                Baby, Babyfoto, Babyfotos, Babyfotografie, Kinder, Kinderfotos, Kinderfotografie, Schwangerschaftsfoto, Schwangerschaft, 
+                Schwangerschaftsfotografie, Party, Partyfotograf, Partyfotografie, Love Story, Liebesgeschichte, Geburtstag, Geburtstagsfotografie, 
+                Geburtstagsfotos, Geburtstagsgeschenk, Familie, Familienfotos, Familienfotografie, Geschenk, Gutschein, Schweiz, Kanton, Waadt, 
+                Freiburg, Bern, Vevey, Montreux, Chatel-St-Denis, Lausanne, Aigle, Villeneuve, Leysin, Bulle, Romont, Greyerz",
 
     'services.portrait' => 'Ihren wahren Charakter zum Ausdruck bringen.',
     'services.children' => 'Sie wachsen so schnell! Halten wir diese Momente für immer fest.',

@@ -658,7 +658,7 @@
                             </li>
                             <li>
                                 <div class="testimonial-content">
-                                    <p class="testimonial-text">It was realy grate to spend this few hours with u! We r
+                                    <p class="testimonial-text">It was really great to spend this few hours with u! We r
                                         very exited with this warm, natural, full of joy,pictures! I realy like to
                                         repeat it again in one month around... Little kids are changing so fast... Thank
                                         u!</p>
