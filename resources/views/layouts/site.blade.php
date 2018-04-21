@@ -11,7 +11,7 @@
         gtag('config', 'UA-26923468-1');
     </script>
 
-    <title>annagrafie de votre vie</title>
+    <title>{{ trans('titles.page') }}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="{{ trans('descriptions.descriptions') }}"/>
     <meta name="keywords" content="{{ trans('descriptions.keywords') }}"/>
