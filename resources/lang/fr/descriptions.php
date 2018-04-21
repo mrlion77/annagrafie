@@ -3,7 +3,11 @@
 return [
 
     'description'=>"",
-    'keywords'=>"",
+    'keywords'=>"photo, photographe, photographier, photoshooting, shooting, session photo, prise de vue, portrait, portraits,
+                photographie bébé, photos bébé, photographie d’enfants, photos d’enfants, photos de grossesse, photographie grossesse,
+                photographie de fête, photos de fête, photographie histoire d’amour, amour, anniversaire, photographie d’anniversaire, 
+                photographie de famille, bon cadeau photo, Suisse, Vaud, Valais, Fribourg, Berne, Vevey, Montreux, Châtel-St-Denis, 
+                Lausanne, Aigle, Villeneuve, Leysin, Bulle, Romont, Gruyères, Genève",
 
     'services.portrait' => 'Exprimer exactement Votre caractère.',
     'services.children' => 'Ils poussent tellement vite ! Gardons ces moments pour toujours.',
@@ -22,10 +26,9 @@ return [
 
     'about.languages' => 'On pourra bien communiquer et se comprendre en :',
 
-
-    'sessions.es' => 'Sie bekommen <strong style="color: #32db89">10</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
-    'sessions.em' => 'Sie bekommen <strong style="color: #4C9EE7">20</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
-    'sessions.el' => 'Sie bekommen <strong style="color: rgb(230, 75, 119)">30</strong> professionell bearbeitete Fotos in .jpg Grossformat + alle gelungene Fotos unbearbeitet',
+    'sessions.es' => 'Vous obtenez <strong style="color: #32db89">10</strong> photos éditées professionnellement en grand format .jpg et en plus toutes les photos réussies non éditées',
+    'sessions.em' => 'Vous obtenez <strong style="color: #4C9EE7">20</strong> photos éditées professionnellement en grand format .jpg et en plus toutes les photos réussies non éditées',
+    'sessions.el' => 'Vous obtenez <strong style="color: rgb(230, 75, 119)">30</strong> photos éditées professionnellement en grand format .jpg et en plus toutes les photos réussies non éditées',
 
     'contact' => "Si vous avez des questions ou vos propres idées, nous pouvons volontiers en parler!",
     'contact.phone'=>"Téléphone",
