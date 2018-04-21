@@ -2,7 +2,7 @@
 
 return [
 
-    'page' => 'annagrafie de votre vie',
+    'page' => 'annagrafie | Fotografie Ihres Lebens',
 
     'intro' => 'Brilliante Bilder Ihres Lebens <span>by Anna Reisch</span>',
 
